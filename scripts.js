@@ -33,7 +33,27 @@ console.log( capital + " is the capital of " + country);
 
   console.log ( 'I\'m the best');
 
-  let artist = "Beatles"
+  let artist = "Beatles";
   console.log ("I'm the fan of \" " + artist +  "\"!");
 
-  
+  console.log(`I'm the fan of "Beatles"!` );
+  console.log(`I'm the fan of "` + artist + `"!` );
+
+  let movie= "Terminator";
+  console.log( `My favourite movie is "Terminator" `)
+
+
+
+
+//   let firstName= prompt(' What is your name');
+//   console.log(`Your name is ${firstName}`);
+
+//   let a = +prompt(" What is A");
+//   let b = +prompt(" What is B");
+//   let sum = a + b;
+//   console.log(`The sum of two numbers is equal to ${sum}`);
+
+let c = +prompt(" What is C");
+let d = +prompt(" What is D");
+let e = c * d;
+console.log(`C multiplied by D is equal to ${e}`);
