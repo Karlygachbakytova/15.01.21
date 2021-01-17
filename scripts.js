@@ -58,7 +58,16 @@ console.log( capital + " is the capital of " + country);
 // let e = c * d;
 // console.log(`C multiplied by D is equal to ${e}`);
 
-let v = +prompt(" What is V");
- let t = +prompt(" What is t");
-let s = v * t;
- console.log(`V divided by t is equal to ${s}`);
+// homework-1
+// let v = +prompt(" What is v");
+//  let t = +prompt(" What is t");
+// let s = v * t;
+//  console.log(`V multiplied by t is equal to ${s}`);
+
+ homework-2
+   let s = +prompt(" What is s");
+let t = +prompt(" What is t");
+let v = s / t;
+ console.log(`s divided by t is equal to ${v}`);
+
+
